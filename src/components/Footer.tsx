@@ -83,7 +83,7 @@ const Footer: React.FC<FooterProps> = ({ darkMode }) => {
           }`}
         >
           <p>
-            Passionate about creating secure, fast, and beautiful WordPress experiences and building innovative done applications.
+            Passionate about creating secure, fast, and beautiful WordPress experiences and building innovative phone applications.
           </p>
         </div>
       </div>
