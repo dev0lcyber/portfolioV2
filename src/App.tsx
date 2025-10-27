@@ -51,7 +51,20 @@ function App() {
         <meta property="og:locale" content="en_US" />
         <meta property="og:site_name" content="Abdallah Driouich Portfolio" />
         <meta property="og:updated_time" content="2025-10-27T10:46:00+01:00" />
-
+         {/* Structured Data - WebSite */}
+<script type="application/ld+json">
+  {JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Abdallah Driouich Portfolio",
+    "url": "https://portfolio.driouich.me",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://portfolio.driouich.me/?s={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  })}    
+</script>
         {/* Twitter - Concise */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@" />
