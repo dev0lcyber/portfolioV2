@@ -101,6 +101,15 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
       status: 'Live',
       liveLink: 'https://pushingbag.nowotch.com/',
     },
+        {
+      title: 'EcoGrid living',
+      description:
+        'Blog about off-grid living and solar technology and renewable energy solutions. made by wordpress, and I used wp-api with backend script to automate article creation and posting.',
+      image: '/webimages/eco.webp',
+      technologies: ['WordPress', 'Elementor', 'WebP', 'SEO', 'AI', 'auto-post'],
+      status: 'Live',
+      liveLink: 'https://ecogridliving.lovestoblog.com/',
+    },
     {
       title: 'Westyal Perfume Store',
       description:
