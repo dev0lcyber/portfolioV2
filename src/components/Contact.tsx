@@ -153,12 +153,12 @@ const Contact: React.FC<ContactProps> = ({ darkMode }) => {
                     Email
                   </h4>
                   <a
-                    href="mailto:abdallahdri62@gmail.com"
+                    href="mailto:contact@driouich.me"
                     className={`transition-colors ${
                       darkMode ? 'text-gray-400 hover:text-white' : 'text-gray-600 hover:text-black'
                     }`}
                   >
-                    abdallahdri62@gmail.com
+                    contact@driouich.me
                   </a>
                 </div>
               </div>

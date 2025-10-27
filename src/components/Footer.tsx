@@ -14,7 +14,7 @@ const Footer: React.FC<FooterProps> = ({ darkMode }) => {
     },
     {
       icon: <Mail size={20} />,
-      href: 'mailto:abdallahdri62@gmail.com',
+      href: 'mailto:contact@driouich.me',
       label: 'Email',
     },
   ];
