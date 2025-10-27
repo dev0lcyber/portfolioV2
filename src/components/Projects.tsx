@@ -102,7 +102,7 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
       liveLink: 'https://pushingbag.nowotch.com/',
     },
         {
-      title: 'EcoGrid living',
+      title: 'EcoGrid living Blog',
       description:
         'Blog about off-grid living and solar technology and renewable energy solutions. made by wordpress, and I used wp-api with backend script to automate article creation and posting.',
       image: '/webimages/eco.webp',
