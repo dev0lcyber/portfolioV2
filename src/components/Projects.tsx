@@ -81,7 +81,7 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
       image: '/webimages/ride.webp',
       technologies: ['WordPress', 'Elementor', 'web3', 'Booking system'],
       status: 'Live',
-      liveLink: 'https://vail-limo.com/carservicemiami/',
+      liveLink: 'https://vail-limo.com/',
     },
     {
       title: 'Blog of Nowotch agence',
