@@ -156,7 +156,7 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
       liveLink: 'i see what are you doing here, hmmm, contact me so I CAN HELP YOU',
     },
     {
-      title: 'Clothing E-Shop App',
+      title: 'Clothing e-Shop App',
       description:
         'clothing e-commerce mobile app that serve as a platform for users to browse, select, and purchase clothing items directly from their mobile devices.',
       image: '/appsimages/clothing-e-shop-app.webp',
