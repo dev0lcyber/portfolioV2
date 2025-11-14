@@ -110,6 +110,15 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
       status: 'Live',
       liveLink: 'https://ecogridliving.lovestoblog.com/',
     },
+     {
+      title: 'Driouich.me Blog',
+      description:
+        'WordPress Blog Built with a custom AI automation system that generates and publishes all content automatically.',
+      image: '/webimages/driouich.me.webp',
+      technologies: ['WordPress', 'Elementor', 'WebP', 'SEO', 'python automation'],
+      status: 'Live',
+      liveLink: 'https://driouich.me/',
+    },
     {
       title: 'Westyal Perfume Store',
       description:
